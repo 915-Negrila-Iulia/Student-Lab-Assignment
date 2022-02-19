@@ -14,9 +14,9 @@ Application allows to:
     - Students with the best school situation, sorted in descending order of the average grade received for all assignments.
 5. Unlimited undo/redo functionality. Each step will undo/redo the previous operation performed by the user. Undo/redo operations cascade and have a memory-efficient implementation (no superfluous list copying)
 
-Also implemented:
-1.Exception classes, PyUnit test cases for all non-UI classes and methods, Specifications.
-2. Persistent storage for all entities using file-based repositories. A `settings.properties` file to configure the application. The program works the same way using in-memory repositories, text-file repositories and binary file repositories. The decision of which repositories are employed, as well as the location of the repository input files are made in the program’s `settings.properties` file.
-3. Python module that contains an iterable data structure, a sort method(based on shell sort) and a filter method(contains 2 parameters: the list to be filtered, and an acceptance function that decided whether a given value passes the filter), together with complete PyUnit unit tests (100% coverage). The module is reusable in other projects. This data structure is used for storing objects in the repository and both functions are used in the repository and service layers.
+Also implemented:\
+1.Exception classes, PyUnit test cases for all non-UI classes and methods, Specifications.\
+2. Persistent storage for all entities using file-based repositories. A `settings.properties` file to configure the application. The program works the same way using in-memory repositories, text-file repositories and binary file repositories. The decision of which repositories are employed, as well as the location of the repository input files are made in the program’s `settings.properties` file.\
+3. Python module that contains an iterable data structure, a sort method(based on shell sort) and a filter method(contains 2 parameters: the list to be filtered, and an acceptance function that decided whether a given value passes the filter), together with complete PyUnit unit tests (100% coverage). The module is reusable in other projects. This data structure is used for storing objects in the repository and both functions are used in the repository and service layers.\
 4. Implemented a graphical user interface, in addition to the menu-driven UI. Program can be started with either UI, without changes to source code. GUI is implemented in a declarative approach, using Qt Designer.
 
