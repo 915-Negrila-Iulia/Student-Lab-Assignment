@@ -1,0 +1,11 @@
+A1,Create a snake game,2020-12-20
+A2,Create a sudoku game,2020-01-23
+A3,Improve the snake game,2020-02-17
+A4,Create an app like googlemaps,2021-02-20
+A5,Create an calculator app,2020-03-15
+A6,Improve the googlemaps app,2020-03-25
+A7,Improve the calculator app,2021-04-05
+A8, Do undo/redo for calculator app2,2021-04-20
+A9,new desc,2021-12-12
+A11,Improve the website,2021-05-17
+A10,description,2020-10-10
