@@ -20,3 +20,7 @@ Also implemented:\
 3. Python module that contains an iterable data structure, a sort method(based on shell sort) and a filter method(contains 2 parameters: the list to be filtered, and an acceptance function that decided whether a given value passes the filter), together with complete PyUnit unit tests (100% coverage). The module is reusable in other projects. This data structure is used for storing objects in the repository and both functions are used in the repository and service layers.\
 4. Implemented a graphical user interface, in addition to the menu-driven UI. Program can be started with either UI, without changes to source code. GUI is implemented in a declarative approach, using Qt Designer.
 
+<p float="left" align="middle">
+  <img src="https://github.com/915-Negrila-Iulia/Student-Lab-Assignment/blob/master/Students1.png?raw=true" width=45% />
+  <img src="https://github.com/915-Negrila-Iulia/Student-Lab-Assignment/blob/master/Students2.png?raw=true" width=45% /> 
+</p>
